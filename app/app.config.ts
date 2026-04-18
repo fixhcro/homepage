@@ -10,7 +10,7 @@ export default defineAppConfig({
 
 	footer: {
 		copyright: `© ${new Date().getFullYear()} lpcay`,
-		message: h('a', { href: 'https://beian.miit.gov.cn/', target: '_blank', rel: 'noopener nofollow' }, '陕ICP备2025072742号-1'),
+		message: h('a', { href: 'https://www.gov.cn/', target: '_blank', rel: 'noopener nofollow' }, '占位连接'),
 	},
 
 	// 用于在主页展示下游引用
@@ -18,7 +18,7 @@ export default defineAppConfig({
 		{
 			img: 'https://file.furrys.im/img/logo.webp',
 			link: 'https://www.furrys.im',
-			text: 'lpcay主页',
+			text: 'fixhcro主页',
 		}
 	],
 
@@ -37,7 +37,7 @@ export default defineAppConfig({
 		{
 			title: '社交',
 			items: [
-				{ icon: 'ph:github-logo-duotone', text: 'Github', url: 'https://github.com/lpcay', external: true },
+				{ icon: 'ph:github-logo-duotone', text: 'Github', url: 'https://github.com/fixhcro', external: true },
 			],
 		},
 	] satisfies Nav,
