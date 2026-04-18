@@ -23,13 +23,13 @@ const appConfig = useAppConfig()
 		<div>
 			<ZButton
 				icon="ph:files-duotone"
-				to="https://blog.furrys.im/"
+				to="https://blog.furrys.im"
 				text="博客"
 				primary
 			/>
 			<ZButton
 				icon="ph:github-logo-duotone"
-				to="https://github.com/lpcay"
+				to="https://github.com/fixhcro"
 				text="GitHub"
 			/>
 		</div>
