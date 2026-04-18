@@ -3,16 +3,16 @@
 import type { NitroConfig } from 'nitropack'
 
 const author = {
-	name: 'lpcay',
+	name: 'fixhcro',
 	avatar: 'https://file.furrys.im/img/logo.webp',
 	email: 'lpcay@qq.com',
 	homepage: 'https://www.furrys.im/',
 }
 
 const homepageConfig = {
-	title: 'Lpcay的主页',
+	title: 'Fixhcro的主页',
 	subtitle: '在平凡中点燃微光，照亮自己的远方',
-	description: 'Lpcay的主页。',
+	description: 'Fixhcro的主页。',
 	author,
 	language: 'zh-CN',
 	timezone: 'Asia/Shanghai',
