@@ -9,7 +9,7 @@ export default defineAppConfig({
 	...homepageConfig,
 
 	footer: {
-		copyright: `© ${new Date().getFullYear()} lpcay`,
+		copyright: `© ${new Date().getFullYear()} fixhcro`,
 		message: h('a', { href: 'https://www.gov.cn/', target: '_blank', rel: 'noopener nofollow' }, '占位连接'),
 	},
 
